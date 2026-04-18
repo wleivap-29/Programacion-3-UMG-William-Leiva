@@ -27,7 +27,7 @@ Como se ejecuta el programa
 
 1. Clonar el repositorio:
 
-git clone https://github.com/tu-usuario/tu-repositorio.git
+
 
 
 2. Acceder a la carpeta:
@@ -100,4 +100,6 @@ proyecto-avl
 │── datos3.csv
 │── README.md
 ```
+Integrantes:
+William Emmanuel Leiva Pérez 9490-23-3393   100%
 
